@@ -32,7 +32,7 @@ const Navbar = () => {
         <div className='flex justify-between items-center h-16'>
             <div className='flex space-x-2'>
                 <img src={pic} className='h-12 w-12 rounded-full' alt="" />
-                <h1 className='font-semibold text-xl cursor-pointer'>Muhammad <span className='text-green-600 '>Waqas</span>
+                <h1 className='font-semibold text-lg cursor-pointer'>Muhammad <span className='text-green-600 '>Waqas</span>
                 <p className='text-sm'>MERN Stack Developer</p>
                 </h1>
             </div>
