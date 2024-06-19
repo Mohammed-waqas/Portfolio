@@ -7,3 +7,8 @@ body{
   font-family: 'Poppins','sans-serif';
   
 }
+@layer components{
+  .card{
+    @apply rounded-xl shadow-lg border-[2px] border-cyan-50 m-2
+  }
+}

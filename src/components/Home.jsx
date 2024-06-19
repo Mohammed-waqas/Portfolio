@@ -69,9 +69,8 @@ const Home = () => {
           <img src={pic} className='rounded-full md:w-[400px] md:h-[400px] border-4 border-white  border-solid shadow-lg' alt="" />
         </div>
         </div>
-        <hr />
     </div>
-    
+    <hr />
     </>
   )
 }
